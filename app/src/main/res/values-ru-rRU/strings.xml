@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Russia</string>
+    <string name="btn_click_me">Нажми меня</string>
+    <string name="hello_world">Привет, мир!</string>
+    <string name="clicked_text">Нажато</string>
+</resources>
