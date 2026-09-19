@@ -3,6 +3,7 @@ package cn.edu.sicnu.cs.stu.pengxiangyuan.first
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import android.widget.Button
+import android.widget.LinearLayout
 import android.widget.TextView
 
 class MyActivity : AppCompatActivity () {
